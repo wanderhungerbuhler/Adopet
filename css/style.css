@@ -1,0 +1,102 @@
+*{margin:0; padding:0; box-sizing:border-box;}
+body{font-family: "museo-sans-rounded", sans-serif;}
+html{scroll-behavior: smooth;}
+image{max-width: 100%;}
+
+.sliderintro{
+  width: 100%;
+  height: 90vh;
+  background: #E53B3B url('../images/logo.svg') no-repeat center center;
+}
+
+/* MENU */
+.menu{
+  height: 70vh;
+  position: sticky;
+  top:50px;
+  z-index: 2;
+  margin-top:50px;
+}
+
+.list-menu li{list-style: none; padding: 1em;}
+.list-menu li a{color:#707070; text-decoration: none; font-size:17px; font-weight: 700; text-align: left;}
+.list-menu li a:hover{color: #E53B3B;}
+
+.active{color:#E53B3B !important;}
+
+/* CONTENT/CONTAINER */
+.container{width:80%; display: flex; margin: 0 auto;}
+.content{width: 60%; margin-left: 50px;}
+.content-desc {padding-bottom: 100px; border-bottom: 1px solid #dddddd;}
+.content-desc h1{font-size: 2em; font-weight:500; margin-top:50px; color: #707070;}
+.content-desc p{margin-top:20px; margin-bottom:50px; text-align: justify; color:#707070;}
+.destaque{color:#707070;}
+
+.phones{width: 100%;}
+/* .phones{width: 100%; height: 600px; background: url('../images/phones.svg') no-repeat top center; 
+  background-size: 100%;} */
+.logos{width: 100%; height: 200px; background: url('../images/logos.svg') no-repeat top center;
+  background-size: 70%;}
+.cores{width: 100%; height: 200px; background: url('../images/buttons-colors.svg') no-repeat top center;
+  background-size: 70%;}
+.ilustracoes{width: 100%; height: 200px; background: url('../images/illustrations.svg') no-repeat top center;
+background-size: 100%;}
+.botoes{width: 100%; height: 200px; background: url('../images/buttons-adopt-favorite.svg') no-repeat top center;
+background-size: 70%;}
+
+.colaboradores{width: 100%; display: flex;}
+.colaboradores article{width: 200px; height: 230px; margin: 5px;}
+
+.wander{background: url('../images/wanderhungerbuhler.svg') no-repeat center center; background-size: 100%;}
+.gabriel{background: url('../images/gabrielvasconcellos.svg') no-repeat center center; background-size: 100%;}
+.stephanie{background: url('../images/stephaniedelgado.svg') no-repeat center center; background-size: 100%;}
+
+/* BTN DOAÇÃO */
+.btn-donation{
+  width: 250px;
+  display: block;
+  background: #E53B3B;
+  padding:1em;
+  color:#fff;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 900;
+  text-align: center;
+}
+
+/* MOBILE */
+
+
+@media (max-width: 640px){
+  .menu{
+   display: none;
+   transition: all 3s ease-in-out;
+  }
+
+  .sliderintro{background-size: 70%;}
+
+  .container, .content{
+    width: 100%;
+    padding:1em;
+    margin-left:0;
+  }
+
+  .colaboradores{
+    width: 100%;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .content-desc{
+    padding-bottom:0;
+  }
+
+  .btn-donation{
+    width: 100%;
+  }
+
+  /* .phones,  */
+  .logos, .cores, .ilustracoes, .botoes{width: 90%; margin:0 auto; background-size:100%;}
+}
+
+

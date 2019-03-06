@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="305" height="36.941" viewBox="0 0 305 36.941">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e53b3b;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 18px;
+        font-family: MuseoSansRounded-900, "Museo Sans Rounded 900";
+        font-weight: 900;
+      }
+
+      .cls-4 {
+        fill: #ff9797;
+      }
+    </style>
+  </defs>
+  <g id="Agrupar_151" data-name="Agrupar 151" transform="translate(-428 -2521)">
+    <g id="Agrupar_128" data-name="Agrupar 128" transform="translate(-950 1810.059)">
+      <rect id="Retângulo_169" data-name="Retângulo 169" class="cls-1" width="132" height="36.882" rx="18.441" transform="translate(1378 711)"/>
+      <text id="ADOTAR" class="cls-2" transform="translate(1456.706 735.765)"><tspan x="-36.243" y="0">ADOTAR</tspan></text>
+      <path id="Caminho_116" data-name="Caminho 116" class="cls-3" d="M134.706,1625.132c-5.073,2.609-6.667-14.494,10.87-10.87s8.841,16.377,5.942,14.783-3.913-3.913-5.217-2.319,4.2,6.232.725,7.392-16.957-1.015-6.087-7.971C142.387,1623.682,139.779,1622.523,134.706,1625.132Z" transform="translate(1262.863 -894.991)"/>
+    </g>
+    <g id="Agrupar_131" data-name="Agrupar 131">
+      <rect id="Retângulo_191" data-name="Retângulo 191" class="cls-4" width="158" height="36.882" rx="18.441" transform="translate(575 2521)"/>
+      <g id="Agrupar_130" data-name="Agrupar 130" transform="translate(6.475 1.143)">
+        <g id="Agrupar_129" data-name="Agrupar 129" transform="translate(4 -15)">
+          <path id="pp" class="cls-3" d="M7.519,1.881c3.226-5.971,7.914,2.969,5.8,8.417,2.366,5.387-2.976,13.91-5.8,8.278S0,14.947,0,10.3,4.292,7.852,7.519,1.881Z" transform="translate(602.199 2552.116) rotate(90)"/>
+          <path id="Caminho_156" data-name="Caminho 156" class="cls-3" d="M2.9,0c1.6,0,2.9,2.079,2.9,4.644s-1.3,4.644-2.9,4.644S0,7.208,0,4.644,1.3,0,2.9,0Z" transform="matrix(0.995, -0.105, 0.105, 0.995, 579.525, 2548.93)"/>
+          <ellipse id="Elipse_55" data-name="Elipse 55" class="cls-3" cx="2.902" cy="4.644" rx="2.902" ry="4.644" transform="matrix(0.995, -0.105, 0.105, 0.995, 584.91, 2541.545)"/>
+          <ellipse id="Elipse_56" data-name="Elipse 56" class="cls-3" cx="2.902" cy="4.644" rx="2.902" ry="4.644" transform="translate(592.729 2540.857) rotate(8)"/>
+          <ellipse id="Elipse_57" data-name="Elipse 57" class="cls-3" cx="2.902" cy="4.644" rx="2.902" ry="4.644" transform="translate(599.115 2548.243) rotate(8)"/>
+        </g>
+        <text id="FAVORITAR" class="cls-2" transform="translate(663.706 2545.823)"><tspan x="-48.348" y="0">FAVORITAR</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

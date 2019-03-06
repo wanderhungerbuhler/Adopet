@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="411.503" height="74.947" viewBox="0 0 411.503 74.947">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e53b3b;
+      }
+
+      .cls-2 {
+        fill: #ff9797;
+      }
+
+      .cls-3, .cls-8 {
+        fill: #707070;
+      }
+
+      .cls-4 {
+        fill: #f4f4f4;
+      }
+
+      .cls-5, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        stroke: #dfdfdf;
+      }
+
+      .cls-6, .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-6, .cls-7, .cls-8 {
+        font-family: MuseoSansRounded-700, "Museo Sans Rounded 700";
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        font-size: 13px;
+      }
+
+      .cls-9 {
+        stroke: none;
+      }
+
+      .cls-10 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Agrupar_150" data-name="Agrupar 150" transform="translate(-427.749 -1607.026)">
+    <rect id="Retângulo_188" data-name="Retângulo 188" class="cls-1" width="132.925" height="35.352" rx="17.676" transform="translate(427.749 1607.026)"/>
+    <rect id="Retângulo_187" data-name="Retângulo 187" class="cls-2" width="132.925" height="35.352" rx="17.676" transform="translate(427.749 1646.621)"/>
+    <rect id="Retângulo_189" data-name="Retângulo 189" class="cls-3" width="132.925" height="35.352" rx="17.676" transform="translate(567.744 1607.026)"/>
+    <rect id="Retângulo_186" data-name="Retângulo 186" class="cls-4" width="132.925" height="35.352" rx="17.676" transform="translate(567.744 1646.621)"/>
+    <g id="Retângulo_190" data-name="Retângulo 190" class="cls-5" transform="translate(706.326 1607.026)">
+      <rect class="cls-9" width="132.925" height="35.352" rx="17.676"/>
+      <rect class="cls-10" x="0.5" y="0.5" width="131.925" height="34.352" rx="17.176"/>
+    </g>
+    <text id="_E53B3B" data-name="#E53B3B" class="cls-6" transform="translate(464.515 1629.925)"><tspan x="0" y="0">#E53B3B</tspan></text>
+    <text id="_FF9797" data-name="#FF9797" class="cls-6" transform="translate(464.515 1669.52)"><tspan x="0" y="0">#FF9797</tspan></text>
+    <text id="_707070" data-name="#707070" class="cls-7" transform="translate(604.511 1628.925)"><tspan x="0" y="0">#707070</tspan></text>
+    <text id="_F4F4F4" data-name="#F4F4F4" class="cls-8" transform="translate(604.511 1669.52)"><tspan x="0" y="0">#F4F4F4</tspan></text>
+    <text id="_FFFFFF" data-name="#FFFFFF" class="cls-8" transform="translate(743.093 1629.925)"><tspan x="0" y="0">#FFFFFF</tspan></text>
+  </g>
+</svg>
